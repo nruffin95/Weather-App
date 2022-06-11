@@ -8,7 +8,7 @@ JavaScript
 moment.js
 Links
 Application: 
-Repository : 
+Repository : https://github.com/nruffin95/Weather-App.git
 
 Instructions
 User types in name of city and state separated by comma.
